@@ -1,0 +1,27 @@
+{
+    "name": "freekerneljs-bootstrap-theme",
+    "version": "1.0.0",
+    "description": "A FreeKernelJS Theme",
+    "license": "MIT",
+    "homepage": "https://github.com/FreeKernelJS/freekerneljs-bootstrap-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FreeKernelJS/freekerneljs-bootstrap-theme.git"
+    },
+    "authors": [
+        "FreeKernelJS <labs@freekerneljs.org>"
+    ],
+    "main": [
+        "app/images/favicon.ico",
+        "app/scss/_app.scss",
+        "bootstrap/javascripts/bootstrap.min.js"
+    ],
+    "keywords": [
+        "freekerneljs",
+        "generator",
+        "template",
+        "theme",
+        "bootstrap",
+        "sass"
+    ]
+}
