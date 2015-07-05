@@ -23,5 +23,6 @@
         "theme",
         "bootstrap",
         "sass"
-    ]
+    ],
+    "ignore": []
 }
