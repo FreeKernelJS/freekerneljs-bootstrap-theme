@@ -14,8 +14,7 @@
     "main": [
         "app/images/favicon.ico",
         "app/scss/_app.scss",
-        "bootstrap/javascripts/bootstrap.min.js",
-        "bootstrap/fonts/"
+        "bootstrap/javascripts/bootstrap.min.js"
     ],
     "keywords": [
         "freekerneljs",
