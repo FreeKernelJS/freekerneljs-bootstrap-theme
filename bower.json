@@ -12,7 +12,7 @@
         "FreeKernelJS <labs@freekerneljs.org>"
     ],
     "main": [
-        "app/assets/images/favicon.ico",
+        "assets/images/favicon.ico",
         "app/scss/_app.scss",
         "bootstrap/javascripts/bootstrap.min.js"
     ],
