@@ -1,6 +1,6 @@
 {
     "name": "freekerneljs-bootstrap-theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A FreeKernelJS Theme",
     "license": "MIT",
     "homepage": "https://github.com/FreeKernelJS/freekerneljs-bootstrap-theme",
@@ -12,7 +12,7 @@
         "FreeKernelJS <labs@freekerneljs.org>"
     ],
     "main": [
-        "app/images/favicon.ico",
+        "assets/images/favicon.ico",
         "app/scss/_app.scss",
         "bootstrap/javascripts/bootstrap.min.js"
     ],
